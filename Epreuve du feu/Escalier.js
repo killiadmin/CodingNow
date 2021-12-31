@@ -12,3 +12,9 @@ function escalier(x) {
  }
 
  escalier(escfire);
+
+//  Commande entrer dans le shell : Node escalier.js 4 
+// Reponse : #
+//           ##
+//           ###
+//           ####
